@@ -6,5 +6,7 @@ System.out.println("We will be Git Experts, soon.");
 public void manageRockets() {
     // TODO implement
     }
-}
+public void manageTheSatelliteBranch2() {
+    // TODO implement
+}}
 
